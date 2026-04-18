@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SadulShahar.aternos.me",
+    "ip": "SadulShahar.aternos.me:13165",
     "port": 13165,
     "version": "1.21.1"
   },
